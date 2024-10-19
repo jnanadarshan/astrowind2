@@ -1,6 +1,6 @@
 site:
   name: Jnanadarshan Nayak | JDNayak.com
-  site: 'https://jdnayak-test.netlify.app'
+  site: 'https://jdnayak.netlify.app'
   base: '/'
   trailingSlash: false
 
